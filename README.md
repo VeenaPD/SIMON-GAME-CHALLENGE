@@ -2,7 +2,7 @@
 
 ## DEMO
 
-[Play simon now. Click here](https://veenapd.github.io/SIMON-GAME-CHALLENGE/)
+[Wanna Play Simon Game Now. Click here](https://veenapd.github.io/SIMON-GAME-CHALLENGE/)
 
 ## Introduction
 
@@ -23,6 +23,7 @@ Step 2: Keep tapping the color sequence that appears over each level
 Step 3: If wrong sequence is pressed, game is over. Press any key to restart the game
 
 ![alt text](https://github.com/VeenaPD/SIMON-GAME-CHALLENGE/blob/master/images/gameOver.PNG)
+
 
 ## Features
 
