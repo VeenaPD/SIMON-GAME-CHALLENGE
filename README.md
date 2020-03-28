@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Simon game is developed using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [JQuery](https://jquery.com/). 
+Simon game in this project is developed using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [JQuery](https://jquery.com/). 
 
 ## Description
 
